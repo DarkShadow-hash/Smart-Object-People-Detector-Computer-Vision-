@@ -1,1 +1,1 @@
-# Smart-Object-People-Detector-Computer-Vision-
+# Smart Object People Detector Computer Vision
